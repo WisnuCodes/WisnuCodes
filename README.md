@@ -1,21 +1,70 @@
-# 💫 About Me:
-# Halo semua, saya Wisnu! 👋<br><br><p align="left"><br>  <img src="https://komarev.com/ghpvc/?username=WisnuCodes&color=blueviolet&style=flat-square" alt="Profil Views" /><br></p><br><br>Saya seorang **Software Engineer / Web Developer** yang berfokus pada pembuatan aplikasi web yang responsif, efisien, dan berdampak bagi pengguna. Saya sangat senang mengeksplorasi teknologi baru, memecahkan masalah kompleks lewat kode, serta berkontribusi dalam proyek open-source.<br><br>---<br><br>### 🚀 Tentang Saya<br>- 🔭 **Saat ini sedang bekerja:** Membangun aplikasi web modern menggunakan ekosistem JavaScript/TypeScript.<br>- 🌱 **Sedang memperdalam:** Arsitektur Cloud (AWS/GCP) dan optimasi performa *Full-Stack applications*.<br>- 💬 **Tanya saya tentang:** React, Node.js, optimasi database, atau alur kerja Git/GitHub.<br>- 📫 **Cara menghubungi saya:** Hubungi saya melalui email di `wisnunugraha.dev@gmail.com`.<br>- ⚡ **Fun Fact:** Saya percaya bahwa kopi yang baik dan dokumentasi yang rapi adalah kunci dari *debugging* yang sukses.<br><br>---<br><br>### 🛠️ Teknologi & Alat Kerja<br><br>Guna mendukung produktivitas, berikut adalah beberapa bahasa pemrograman, framework, dan *tools* yang biasa saya gunakan sehari-hari:<br><br>| Kategori | Teknologi |<br>| :--- | :--- |<br>| **Bahasa Pemrograman** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |<br>| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |<br>| **Backend & Database** | ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |<br>| **Alat & Pengembangan** | ![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |<br><br>---<br><br>### 📊 Statistik GitHub<br><br>Grafik di bawah ini akan memperbarui datanya secara otomatis berdasarkan aktivitas coding Anda di GitHub:<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=WisnuCodes&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Wisnu" height="190px" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisnuCodes&layout=compact&theme=tokyonight" alt="Bahasa yang Sering Digunakan" height="190px" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WisnuCodes&theme=tokyonight" alt="GitHub Streak" /><br></p><br><br>---<br><br>### 🤝 Mari Terhubung!<br><br>Saya selalu terbuka untuk berkolaborasi dalam proyek menarik, bertukar ide, atau sekadar mengobrol santai seputar dunia teknologi. <br><br><p align="left"><br>  <a href="https://linkedin.com/in/username-anda" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br>  <a href="https://instagram.com/username-anda" target="_blank"><br>    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><br>  </a><br>  <a href="https://twitter.com/username-anda" target="_blank"><br>    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /><br>  </a><br></p><br><br>---<br><p align="center">Dibuat dengan ❤️ oleh WisnuCodes.</p>
+# Halo semua, saya Wisnu! 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=WisnuCodes&color=blueviolet&style=flat-square" alt="Profil Views" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wwisnuuu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wisnu-nugraha-29b6853b3/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Wisnu Nugraha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wisnunugraha.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=WisnuCodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=WisnuCodes&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=WisnuCodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WisnuCodes&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+Saya seorang **Software Engineer / Web Developer** yang berfokus pada pembuatan aplikasi web yang responsif, efisien, dan berdampak bagi pengguna. Saya sangat senang mengeksplorasi teknologi baru, memecahkan masalah kompleks lewat kode, serta berkontribusi dalam proyek open-source.
 
 ---
-[![](https://komarev.com/ghpvc/?username=WisnuCodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Tentang Saya
+- 🔭 **Saat ini sedang bekerja:** Membangun aplikasi web modern menggunakan ekosistem PHP (Laravel/CodeIgniter) dan JavaScript.
+- 🌱 **Sedang memperdalam:** Arsitektur Cloud, optimasi performa *Full-Stack applications*, dan modern frontend framework.
+- 💬 **Tanya saya tentang:** PHP, Laravel, Livewire, JavaScript, atau alur kerja Git/GitHub.
+- 📫 **Cara menghubungi saya:** Hubungi saya melalui email di `wisnunugraha.dev@gmail.com`.
+- ⚡ **Fun Fact:** Saya percaya bahwa kopi yang baik dan dokumentasi yang rapi adalah kunci dari *debugging* yang sukses.
+
+---
+
+### 🌐 Mari Terhubung!
+
+<p align="left">
+  <a href="https://linkedin.com/in/wisnu-nugraha-29b6853b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/wwisnuuu__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://mastodon.social/@Wisnu Nugraha" target="_blank">
+    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
+  <a href="mailto:wisnunugraha.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💻 Teknologi & Alat Kerja
+
+Guna mendukung produktivitas, berikut adalah ekosistem teknologi yang biasa saya gunakan sehari-hari:
+
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Bahasa Pemrograman** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Framework & Library** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat-square&logo=livewire&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Server & Database** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) |
+| **Alat Pengembangan** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Manajemen & Desain** | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
+
+---
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=WisnuCodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Statistik GitHub Wisnu" height="170px" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=WisnuCodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Bahasa yang Sering Digunakan" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WisnuCodes&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+### 🏆 Pencapaian
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WisnuCodes&theme=merko&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+<p align="center">Dibuat dengan ❤️ oleh WisnuCodes.</p>
