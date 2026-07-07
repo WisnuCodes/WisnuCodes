@@ -61,10 +61,8 @@ Guna mendukung produktivitas, berikut adalah ekosistem teknologi yang biasa saya
   <img src="https://streak-stats.demolab.com/?user=WisnuCodes&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-### 🏆 Pencapaian
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WisnuCodes&theme=merko&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
-<p align="center">Dibuat dengan ❤️ oleh WisnuCodes.</p>
+
+<p align="center">
+Thanks for stopping by. Feel free to connect or collaborate!
+</p>
